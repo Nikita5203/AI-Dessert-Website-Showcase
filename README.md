@@ -28,14 +28,14 @@ https://proj-1-a90d6360-9a55-4d84-8fe6-472ca04e40b6.bgridapp.com
 ### Home Page
 ![Home](home-page.png)
 
+### Cake Section
+![Cake](cake-section.png)
+
 ### Menu Page
 ![Menu](menu-page.png)
 
 ### Order Section
 ![Order](order-page.png)
-
-### Cake Section
-![Cake](cake-section.png)
 
 ## 🎯 Purpose of Project
 
